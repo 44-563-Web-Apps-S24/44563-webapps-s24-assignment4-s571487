@@ -1,0 +1,37 @@
+.speech {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+.direction {
+    font-family: 'Times New Roman', serif;
+    font-size: 14px;
+    color: black;
+    background-color: #f4f4f4; 
+}
+
+.direction:hover {
+    background-color: lightgray;
+    color: white;
+}
+
+.zinaida {
+    color: blue; 
+}
+
+.marta {
+    color: green; 
+}
+
+.first-guest {
+    color: red; 
+}
+
+.gabriel{
+  color: aqua;
+}
+
+.kosich{
+  color: darkgoldenrod;
+}
