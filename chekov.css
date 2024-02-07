@@ -8,7 +8,7 @@
     font-family: 'Times New Roman', serif;
     font-size: 14px;
     color: black;
-    background-color: #f4f4f4; 
+    background-color: #f4f4f4;
 }
 
 .direction:hover {
@@ -17,23 +17,23 @@
 }
 
 .zinaida {
-    color: blue; 
+    color: blue;
 }
 
 .marta {
-    color: green; 
+    color: green;
 }
 
 .first-guest {
-    color: red; 
+    color: red;
 }
 
-.gabriel{
-  color: aqua;
+.gabriel {
+    color: aqua;
 }
 
-.kosich{
-  color: darkgoldenrod;
+.kosich {
+    color: darkgoldenrod;
 }
 
 .table {
@@ -41,22 +41,27 @@
     width: 100%;
     margin: 1rem auto;
     padding: 1rem;
-  }
-  
-  .table th {
-    background-color: #333; 
-    color: white; 
+}
+
+.table th {
+    background-color: #333;
+    color: white;
     border: 1px solid #ccc;
     text-align: center;
     padding: 0.5rem;
-  }
-  
-  .table td {
+}
+
+.table td {
     border: 1px solid #ccc;
     text-align: center;
     padding: 0.5rem;
-  }
-  
-  .table tr:nth-child(even) td {
-    background-color: gray; 
-  }
+}
+
+.table tr:nth-child(even) td {
+    background-color: gray;
+}
+
+.name:hover {
+    text-shadow: 2px 2px 5px #ff0000;
+    border: 1px solid #ff0000;
+}
